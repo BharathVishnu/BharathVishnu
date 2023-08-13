@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**BharathVishnu/BharathVishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bharath Vishnu. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BTech Computer Science Student with a strong enthusiasm for coding . I believe in the power of continous learning and exploration.
+
+- 🌱 I’m currently learning ReactJS.
+- 📫 How to reach me: bharathvb1204@gmail.com.
+
+## Tech Stack
+
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: Python, C, Java, Solidity
+- Frameworks & Libraries: React, Angular,Flutter
+- Tools & Software: Figma
+- Database : SQL
+
