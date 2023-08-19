@@ -6,7 +6,7 @@ I'm Bharath Vishnu. Welcome to my GitHub profile!
 
 I'm a BTech Computer Science Student with a strong enthusiasm for coding . I believe in the power of continous learning and exploration.
 
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactJS,Solidity .
 - 📫 How to reach me: bharathvb1204@gmail.com.
 
 ## Tech Stack
