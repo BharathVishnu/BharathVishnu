@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Bharath Vishnu. Welcome to my GitHub profile!
+I'm Bharath Vishnu.
 
 ## About Me
 
@@ -14,6 +14,6 @@ Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, C, Java, Solidity
 - Frameworks & Libraries: React, Angular,Flutter,NextJS
-- Tools & Software: Figma
-- Database : SQL
+- Tools & Software: Figma,Canva
+- Database : SQL,Firebase
 
