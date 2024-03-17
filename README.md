@@ -13,7 +13,7 @@ I'm a BTech Computer Science Student with a strong enthusiasm for coding .
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, C, Java, Javascript, Solidity
-- Frameworks & Libraries: React, Angular,Flutter,NextJS
+- Frameworks & Libraries: React,Flutter,NextJS
 - Tools & Software: Figma,Canva
 - Database : SQL,Firebase
 
