@@ -3,9 +3,6 @@
 I'm Bharath Vishnu.
 
 ## About Me
-
-I'm a BTech Computer Science Student with a strong enthusiasm for coding .
-- 🌱 I’m currently learning ReactJS,Solidity,NextJS .
 - 📫 How to reach me: bharathvb1204@gmail.com.
 
 ## Tech Stack
