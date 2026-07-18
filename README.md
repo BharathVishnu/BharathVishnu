@@ -6,7 +6,6 @@ Software Engineer
 
 <p align="center">
   <a href="https://github.com/BharathVishnu">
-    <img src="https://komarev.com/ghpvc/?username=BharathVishnu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -15,7 +14,7 @@ Software Engineer
 ## 🚀 About Me
 
 * 💼 Software Engineer at **TCS**
-* 💻 Primarily working with **Java, Spring Boot, Python, FastAPI, React, and SQL**
+* 💻 Primarily working with **React.js, Java, Spring Boot, Python, FastAPI, and PostgreSQL**
 * 🌱 Currently exploring **Distributed Systems, Cloud Technologies, and System Design**
 * 🛠️ Passionate about building clean, maintainable, and production-ready software
 * 📖 Always learning new technologies and improving engineering practices
@@ -91,38 +90,9 @@ Software Engineer
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BharathVishnu&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
 
-</p>
-
----
-
-## 💡 What I Enjoy Building
-
-* REST APIs
-* Backend Services
-* Enterprise Applications
-* Developer Tools
-* Automation Solutions
-* Full-Stack Web Applications
-* Scalable System Architectures
-
----
-
-## 📚 Currently Learning
-
-* System Design
-* Microservices
-* Distributed Systems
-* Cloud Architecture
-* Performance Optimization
-* Software Architecture Patterns
-
----
 
 ## 🤝 Connect With Me
 
@@ -132,29 +102,10 @@ Software Engineer
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/b-bharath-vishnu">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-```java
-while (alive) {
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
-
----
-
-<p align="center">
-
-*"Great software isn't just about writing code—it's about solving problems, continuously learning, and making systems better than yesterday."*
-
-</p>
