@@ -1,7 +1,7 @@
 # Hi there, I'm Bharath Vishnu 👋
 
 <h3 align="center">
-Software Engineer | Backend Developer | Passionate about building scalable and reliable software
+Software Engineer
 </h3>
 
 <p align="center">
